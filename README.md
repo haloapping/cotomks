@@ -27,3 +27,4 @@
 
 - [Dive Into Deep Learning](https://d2l.ai/index.html)
 - [Stanford.edu - CS 230](https://stanford.edu/~shervine/teaching/cs-230/)
+- [Jake Tae](https://jaketae.github.io/posts/)
