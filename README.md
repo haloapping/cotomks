@@ -42,3 +42,8 @@
 - [PyTorch Tutorials](https://pytorch.org/tutorials/)
 - [Stanford.edu - CS 230](https://stanford.edu/~shervine/teaching/cs-230/)
 - [Jake Tae](https://jaketae.github.io/posts/)
+
+## Forecasting
+
+- [Forecasting: Principles and Practice by Rob J Hyndman and George Athanasopoulos - Monash University, Australia](https://otexts.com/fpp2/)
+- [Sktime Tutorials](https://www.sktime.org/en/stable/tutorials.html)
