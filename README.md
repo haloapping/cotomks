@@ -25,6 +25,10 @@
 
 - [Video - Tutorial Belajar Visualisasi Data Dasar | Python Matplotlib](https://youtube.com/playlist?list=PL2O3HdJI4voHrfoMFvkDeblmjarDN8nC8)
 
+## Data Science
+
+- [Data Science For Beginners](https://microsoft.github.io/Data-Science-For-Beginners/#/)
+
 ## Machine Learning
 
 - [Scikit Learn](https://scikit-learn.org/)
