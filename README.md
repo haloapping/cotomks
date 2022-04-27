@@ -47,6 +47,9 @@
 - [Stanford.edu - CS 230](https://stanford.edu/~shervine/teaching/cs-230/)
 - [Jake Tae](https://jaketae.github.io/posts/)
 
+## Image Processing
+- [Interpretasi dan Pengolahan Citra oleh Rinaldi Munir](https://youtu.be/xi2V6YzdL5o)
+
 ## Forecasting
 
 - [Forecasting: Principles and Practice by Rob J Hyndman and George Athanasopoulos - Monash University, Australia](https://otexts.com/fpp2/)
