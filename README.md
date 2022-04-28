@@ -49,6 +49,7 @@
 
 ## Image Processing
 - [Interpretasi dan Pengolahan Citra oleh Rinaldi Munir](https://youtu.be/xi2V6YzdL5o)
+- [Hypermedia Image Processing Reference (HIPR)](https://homepages.inf.ed.ac.uk/rbf/HIPR2/wksheets.htm)
 
 ## Forecasting
 
