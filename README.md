@@ -4,7 +4,6 @@
 
 - [Sololearn](https://www.sololearn.com/learning)
 - [Datacamp](https://www.datacamp.com/)
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [The Algorithms](https://github.com/TheAlgorithms/Python)
 - [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 - [30 Days Of Python by Asabeneh](https://github.com/Asabeneh/30-Days-Of-Python)
