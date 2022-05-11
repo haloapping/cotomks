@@ -7,6 +7,7 @@
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [The Algorithms](https://github.com/TheAlgorithms/Python)
 - [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+- [30 Days Of Python by Asabeneh](https://github.com/Asabeneh/30-Days-Of-Python)
 
 ## Statistics and Probability
 
@@ -39,6 +40,7 @@
 - [Twitter - Santiago](https://twitter.com/svpino)
 - [Twitter - Barry Cavin](https://twitter.com/barrysianturi)
 - [Twitter - Tivadar Danka](https://twitter.com/TivadarDanka)
+- [Video - Belajar Machine Learning Lengkap Dari Nol Banget sampai Practical by JCOp untuk Indonesia](https://www.youtube.com/c/JCOpUntukIndonesia/playlists?view=50&shelf_id=1)
 
 ## Deep Learning
 
@@ -48,6 +50,7 @@
 - [Jake Tae](https://jaketae.github.io/posts/)
 
 ## Image Processing
+
 - [Interpretasi dan Pengolahan Citra oleh Rinaldi Munir](https://youtu.be/xi2V6YzdL5o)
 - [Hypermedia Image Processing Reference (HIPR)](https://homepages.inf.ed.ac.uk/rbf/HIPR2/wksheets.htm)
 
