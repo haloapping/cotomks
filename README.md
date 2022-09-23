@@ -46,6 +46,7 @@
 - [Stanford.edu - CS 230](https://stanford.edu/~shervine/teaching/cs-230/)
 - [Jake Tae](https://jaketae.github.io/posts/)
 - [Zero to Mastery Learn PyTorch for Deep Learning](https://www.learnpytorch.io/)
+- [Jay Alammar](https://jalammar.github.io/)
 
 ## Image Processing
 
