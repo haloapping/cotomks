@@ -47,6 +47,7 @@
 - [Jake Tae](https://jaketae.github.io/posts/)
 - [Zero to Mastery Learn PyTorch for Deep Learning](https://www.learnpytorch.io/)
 - [Jay Alammar](https://jalammar.github.io/)
+- [OpenAI](https://openai.com/blog/)
 
 ## Image Processing
 
