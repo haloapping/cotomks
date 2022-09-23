@@ -1,5 +1,3 @@
-![Meme](meme.jpeg "Meme")
-
 ## Python
 
 - [Sololearn](https://www.sololearn.com/learning)
