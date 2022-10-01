@@ -35,7 +35,6 @@
 - [Stanford.edu - CS 229](https://stanford.edu/~shervine/teaching/cs-229/)
 - [Video - Tutorial Belajar Machine Learning Dasar | Python Scikit-Learn](https://youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E)
 - [Twitter - Santiago](https://twitter.com/svpino)
-- [Twitter - Barry Cavin](https://twitter.com/barrysianturi)
 - [Twitter - Tivadar Danka](https://twitter.com/TivadarDanka)
 - [Video - Belajar Machine Learning Lengkap Dari Nol Banget sampai Practical by JCOp untuk Indonesia](https://www.youtube.com/c/JCOpUntukIndonesia/playlists?view=50&shelf_id=1)
 - [Machine Learning from Scratch by AssemblyAI](https://youtube.com/playlist?list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)
