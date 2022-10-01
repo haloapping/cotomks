@@ -38,6 +38,7 @@
 - [Twitter - Barry Cavin](https://twitter.com/barrysianturi)
 - [Twitter - Tivadar Danka](https://twitter.com/TivadarDanka)
 - [Video - Belajar Machine Learning Lengkap Dari Nol Banget sampai Practical by JCOp untuk Indonesia](https://www.youtube.com/c/JCOpUntukIndonesia/playlists?view=50&shelf_id=1)
+- [Machine Learning from Scratch by AssemblyAI](https://youtube.com/playlist?list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)
 
 ## Deep Learning
 
@@ -49,6 +50,8 @@
 - [Jay Alammar](https://jalammar.github.io/)
 - [OpenAI](https://openai.com/blog/)
 - [AssemblyAI](https://www.assemblyai.com/blog/)
+- [Mısra Turp - Deep Learning](https://youtube.com/playlist?list=PLM8lYG2MzHmSuanpPoQypMQ9LfkaV9nsF)
+- [Mısra Turp - Deep Learning 101](https://youtube.com/playlist?list=PLM8lYG2MzHmQn55ii0duXdO9QSoDF5myF)
 
 ## Image Processing
 
