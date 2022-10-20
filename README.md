@@ -52,6 +52,7 @@
 - [Mısra Turp - Deep Learning](https://youtube.com/playlist?list=PLM8lYG2MzHmSuanpPoQypMQ9LfkaV9nsF)
 - [Mısra Turp - Deep Learning 101](https://youtube.com/playlist?list=PLM8lYG2MzHmQn55ii0duXdO9QSoDF5myF)
 - [Anak AI by Marcella Astrid, dkk.](https://www.youtube.com/c/AnakAI/playlists)
+- [AI Coffee Break with Letitia](https://www.youtube.com/c/AICoffeeBreak/playlists)
 
 ## Image Processing
 
