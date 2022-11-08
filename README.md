@@ -38,7 +38,7 @@
 - [Twitter - Tivadar Danka](https://twitter.com/TivadarDanka)
 - [Video - Belajar Machine Learning Lengkap Dari Nol Banget sampai Practical by JCOp untuk Indonesia](https://www.youtube.com/c/JCOpUntukIndonesia/playlists?view=50&shelf_id=1)
 - [Machine Learning from Scratch by AssemblyAI](https://youtube.com/playlist?list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)
-
+- [StatQuest with Josh Starmer](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 ## Deep Learning
 
 - [Dive Into Deep Learning](https://d2l.ai/index.html)
@@ -53,6 +53,7 @@
 - [Mısra Turp - Deep Learning 101](https://youtube.com/playlist?list=PLM8lYG2MzHmQn55ii0duXdO9QSoDF5myF)
 - [Anak AI by Marcella Astrid, dkk.](https://www.youtube.com/c/AnakAI/playlists)
 - [AI Coffee Break with Letitia](https://www.youtube.com/c/AICoffeeBreak/playlists)
+- [StatQuest with Josh Starmer](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 
 ## Image Processing
 
