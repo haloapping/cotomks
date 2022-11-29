@@ -5,6 +5,7 @@
 - [The Algorithms](https://github.com/TheAlgorithms/Python)
 - [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 - [30 Days Of Python by Asabeneh](https://github.com/Asabeneh/30-Days-Of-Python)
+- [Learn Python in Detail](https://www.scaler.com/topics/python/)
 
 ## Statistics and Probability
 
