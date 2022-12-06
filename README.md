@@ -40,6 +40,7 @@
 - [Video - Belajar Machine Learning Lengkap Dari Nol Banget sampai Practical by JCOp untuk Indonesia](https://www.youtube.com/c/JCOpUntukIndonesia/playlists?view=50&shelf_id=1)
 - [Machine Learning from Scratch by AssemblyAI](https://youtube.com/playlist?list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)
 - [StatQuest with Josh Starmer](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+- [Mustafa Murat ARAT](https://mmuratarat.github.io/)
 
 ## Deep Learning
 
