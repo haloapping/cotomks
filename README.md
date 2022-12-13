@@ -41,6 +41,7 @@
 - [Machine Learning from Scratch by AssemblyAI](https://youtube.com/playlist?list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)
 - [StatQuest with Josh Starmer](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 - [Mustafa Murat ARAT](https://mmuratarat.github.io/)
+- [Machine Learning Indonesia](https://youtube.com/playlist?list=PLMxZwSxrY74xtjQkO68UU86pgj8YlHLgJ)
 
 ## Deep Learning
 
