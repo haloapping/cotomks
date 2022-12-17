@@ -42,6 +42,7 @@
 - [StatQuest with Josh Starmer](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 - [Mustafa Murat ARAT](https://mmuratarat.github.io/)
 - [Machine Learning Indonesia](https://youtube.com/playlist?list=PLMxZwSxrY74xtjQkO68UU86pgj8YlHLgJ)
+- [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020) by Volodymyr Kuleshov](https://youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 
 ## Deep Learning
 
