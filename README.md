@@ -43,6 +43,7 @@
 - [Mustafa Murat ARAT](https://mmuratarat.github.io/)
 - [Machine Learning Indonesia](https://youtube.com/playlist?list=PLMxZwSxrY74xtjQkO68UU86pgj8YlHLgJ)
 - [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020) by Volodymyr Kuleshov](https://youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
+- [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka](https://arxiv.org/abs/1811.12808)
 
 ## Deep Learning
 
