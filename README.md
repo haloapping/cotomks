@@ -62,6 +62,7 @@
 - [AI Coffee Break with Letitia](https://www.youtube.com/c/AICoffeeBreak/playlists)
 - [StatQuest with Josh Starmer](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 - [Deep Learning by New York University](https://atcold.github.io/pytorch-Deep-Learning/)
+- [Transformers from Scratch by Brandon Rohrer](https://e2eml.school/transformers.html)
 
 ## Image Processing
 
