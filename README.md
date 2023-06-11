@@ -7,6 +7,7 @@
 - [30 Days Of Python by Asabeneh](https://github.com/Asabeneh/30-Days-Of-Python)
 - [Learn Python in Detail](https://www.scaler.com/topics/python/)
 - [Python Engineer](https://www.python-engineer.com/posts/)
+- [Python Tutorial](https://www.pythontutorial.net/)
 
 ## Statistics and Probability
 
