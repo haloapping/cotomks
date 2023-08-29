@@ -66,6 +66,7 @@
 - [StatQuest with Josh Starmer](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 - [Deep Learning by New York University](https://atcold.github.io/pytorch-Deep-Learning/)
 - [Transformers from Scratch by Brandon Rohrer](https://e2eml.school/transformers.html)
+- [Lightning AI](https://www.youtube.com/@PyTorchLightning/playlists?view=1&sort=dd&shelf_id=0)
 
 ## Image Processing
 
