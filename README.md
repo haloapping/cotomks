@@ -67,6 +67,7 @@
 - [Deep Learning by New York University](https://atcold.github.io/pytorch-Deep-Learning/)
 - [Transformers from Scratch by Brandon Rohrer](https://e2eml.school/transformers.html)
 - [Lightning AI](https://www.youtube.com/@PyTorchLightning/playlists?view=1&sort=dd&shelf_id=0)
+- [DL Fundamentals by Lightning AI](https://github.com/Lightning-AI/dl-fundamentals/tree/main)
 
 ## Image Processing
 
